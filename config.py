@@ -1,0 +1,10 @@
+AWS_ACCESS_KEY_ID = "AKIA4CRRCOB4DPSBNES3"
+AWS_SECRET_ACCESS_KEY = "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"
+AWS_S3_BUCKET_NAME = "solaropsvalid"
+AWS_REGION = "ap-south-1"
+OPENAI_API_KEY = "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"
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_PORT = 587
+EMAIL_ADDRESS = "aakashbhagat2002@gmail.com"
+EMAIL_PASSWORD = "csez dyag mcec nbrp"
+
